@@ -1,0 +1,31 @@
+SN,Station,Description,Cost(VATEX),Approved Date
+1,MED,Tires replacement - Follow-up,851.5,2023-01-01 00:00:00
+2,MED,Left side mirror damage -Follow-up ,515.84,2023-01-01 00:00:00
+3,MED,Engine electrical- Engine battery,637.5,2023-01-01 00:00:00
+4,MED,Load transfer - service beltT,300,2023-01-01 00:00:00
+5,MED,Tire/wheel-left front tyre puncture,485,2023-01-01 00:00:00
+6,MED,Load transfer-Roller joystick damage,1320.8,2023-01-01 00:00:00
+7,MED,Electric -parking brake switch damage,600,2023-01-01 00:00:00
+8,MED,Tyre/wheel-tyre puncture / Damage,1100.93,2023-01-01 00:00:00
+9,MED,TRT Thermal PM-A (Ramp Check),300,2023-01-01 00:00:00
+10,MED,Left broken side mirror damage,415.84,2023-01-01 00:00:00
+11,MED,Tyre/wheel-tyre puncture / Damage,950.93,2023-01-01 00:00:00
+12,MED,Both sides brake light not working  Follow-up,300,2023-01-01 00:00:00
+13,MED,Tire/wheel- front R/H found tire worn,1487.5,2023-01-01 00:00:00
+14,MED,Left side Reverse light not working Follow-up ,300,2023-01-01 00:00:00
+15,RUH,"(NM) 330240 Damage/Accident - Body/platform, roller, brake, swivel and towb ",3968.25,2023-08-01 00:00:00
+16,JED,Damage/Accident  - Body/brake system ,959.75,2023-05-01 00:00:00
+17,JED,Damage/Accident -  Body/Chassis - Joy sticks broken,2259.35,2023-01-01 00:00:00
+18,JED,"Damage/Accident  - Body/container lock, brake and paint ",1673.94,2023-07-01 00:00:00
+19,JED,"Damage/Accident  - Body/container lock, brake and roller ",1241.25,2023-06-01 00:00:00
+20,JED,Damage/Accident  - Body/grill brake and lock ,965,2023-05-01 00:00:00
+21,JED,Damage/Accident  - Body/grill hinges and lock ,955,2023-05-01 00:00:00
+22,JED,"Damage/Accident  - Body/grill, brake and paint ",975.9,2023-05-01 00:00:00
+23,JED,"Damage/Accident  - Body/grill, brake tire and hook. ",1305,2023-05-01 00:00:00
+24,JED,"Damage/Accident  - Body/grill, hinges and lock, tire ",1333.29,2023-05-01 00:00:00
+25,JED,"Damage/Accident  - Body/grill, hinges lock and brake ",1631.25,2023-06-01 00:00:00
+26,JED,"Damage/Accident  - Body/grill, hinges, brake and towbar ",1631.25,2023-06-01 00:00:00
+27,JED,"Damage/Accident  - Body/grill, hinges, painting and brake repair ",1464.34,2023-06-01 00:00:00
+28,JED,"Damage/Accident  - Body/grill, hinges, tire, brake and towbar lock ",1131.49,2023-06-01 00:00:00
+29,JED,"Damage/Accident  - Body/grill, hinges, towbar, hook and paint ",2274.59,2023-06-01 00:00:00
+30,JED,"Damage/Accident  - Body/grill, lock and hook ",1341.84,2023-05-01 00:00:00
